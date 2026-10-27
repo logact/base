@@ -1,7 +1,7 @@
 ---
 name: agent
 harness: pi
-model: moonshotai/kimi-k3
+model: kimi-coding/kimi-for-coding
 skills:
   - read
   - bash
