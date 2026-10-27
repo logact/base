@@ -1,5 +1,6 @@
 ---
 name: pm
+prototype: agent
 skills:
   - wbs-dispatch
   - github-issue

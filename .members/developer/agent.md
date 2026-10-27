@@ -1,5 +1,7 @@
 ---
 name: developer
+prototype: agent
+harness: codex
 skills:
   - code-edit
   - shell

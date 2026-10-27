@@ -1,5 +1,7 @@
 ---
 name: reviewer
+prototype: agent
+model: claude-sonnet
 skills:
   - code-review
   - github-issue
