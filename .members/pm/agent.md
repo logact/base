@@ -2,8 +2,11 @@
 name: pm
 prototype: agent
 skills:
-  - wbs-dispatch
-  - github-issue
+  - read
+  - write
+  - grep
+  - find
+  - ls
 role: lifeos/ceo
 ---
 

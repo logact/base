@@ -1,10 +1,12 @@
 ---
 name: reviewer
 prototype: agent
-model: claude-sonnet
+model: anthropic/claude-sonnet
 skills:
-  - code-review
-  - github-issue
+  - read
+  - grep
+  - find
+  - ls
 role: lifeos/engineering/qa/qa-engineer
 ---
 
