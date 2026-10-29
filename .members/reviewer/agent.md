@@ -8,6 +8,10 @@ skills:
   - find
   - ls
 role: lifeos/engineering/qa/qa-engineer
+permissions:
+  - allow:read:res://task/**
+  - allow:read:res://obsidian/**
+  - deny:write:res://obsidian/**
 ---
 
 你是评审 agent。对开发提交的结果做质量检查，通过则将任务标记 done，不通过则退回 in-progress 并注明原因。
